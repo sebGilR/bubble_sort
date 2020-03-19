@@ -1,33 +1,26 @@
-# TITLE
+# BUBBLE SORT Ruby project
 
-> Description here
+> This is the first project on the ruby curriculum, it's a bobblu sort method and testing code.
+  
 
-- Original: 
-
-![screenshot](UPDATE)
 
 ## Built With
 
-- HTML5, CSS3
-- Flexbox
-
-## Live Demo
-
-[Live Demo Link](UPDATE)
+- RUBY
+- VSCODE
 
 ## Authors
 
-👤 **Author1**
+👤 **Carlos Prieto Barrón**
 
-- Github: [@UPDATE](https://github.com/UPDATE)
-- Twitter: [@UPDATE](https://twitter.com/UPDATE)
-- Linkedin: [linkedin](UPDATE)
+- Github: [@carlosprietobarron](https://github.com/carlosprietobarron)
+- Twitter: [@CarlosA40795725](https://twitter.com/CarlosA40795725)
 
-👤 **Author2**
+👤 **Sebastian Gil Rodriguez**
 
-- Github: [@lBuggie](https://github.com/lBuggie)
+- Github: [@sebGilR](https://github.com/sebGilR)
 - Twitter: [@sebGilR](https://twitter.com/sebGilR)
-- Linkedin: [linkedin](https://www.linkedin.com/in/sebastian-gil-rodriguez-9b776073)
+- Linkedin: [linkedin](https://www.linkedin.com/in/sebastiangilrodriguez)
 
 ## 🤝 Contributing
 
@@ -39,6 +32,3 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- 
