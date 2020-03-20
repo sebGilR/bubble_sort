@@ -9,7 +9,7 @@ def bubble_sort(arr)
     end
     i += 1
   end
-  puts arr
+  arr
 end
 
 bubble_sort([3, 4, 52, 31, 7, 5])
@@ -24,7 +24,7 @@ def bubble_sort_by(arr)
     break unless swapped
   end
 
-  puts arr
+  arr
 end
 
 bubble_sort_by(%w[hi hello hey]) do |left, right|
