@@ -1,13 +1,11 @@
 # BUBBLE SORT Ruby project
 
-> This is the first project on the ruby curriculum, it's a bobblu sort method and testing code.
+> This is the first project on the ruby curriculum, it's a bobble sort method and testing code.
   
-
 
 ## Built With
 
 - RUBY
-- VSCODE
 
 ## Authors
 
